@@ -1,0 +1,26 @@
+{
+  "name": "smartx",
+  "version": "0.1.0",
+  "description": "A javascript template engine which supports syntax of smarty in php. Smartx has two goals: fast and light.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liupengke/smartx.git"
+  },
+  "keywords": [
+    "smarty",
+    "javascript",
+    "fast",
+    "light",
+    "node"
+  ],
+  "author": "poker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liupengke/smartx/issues"
+  },
+  "homepage": "https://github.com/liupengke/smartx#readme"
+}
